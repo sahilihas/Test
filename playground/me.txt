@@ -1,0 +1,5 @@
+{{#user}}
+Name: Harsh Tripathi
+Skills: HTML, CSS, JS, React.js
+Email: harsh21tripathi@gmail.com
+{{/user}}
